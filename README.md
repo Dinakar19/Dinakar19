@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" alt="coding animation"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGs3eDZodGs4ZnV6bjAxOHQ4bnhlMGJkMXZhZDhwa3ZycGhzeDl1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdSZITavcMz70v6/giphy.gif" width="300" alt="coding animation"/>
 
 # 👋 Hi, I'm Dinakar Sathyanarayana
 
