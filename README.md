@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGs3eDZodGs4ZnV6bjAxOHQ4bnhlMGJkMXZhZDhwa3ZycGhzeDl1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdSZITavcMz70v6/giphy.gif" width="300" alt="coding animation"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGZvZWpndmxrdDY1MmpjNmo4MmI2dzAzZzc5bXl0MGo5ODU4YWFmcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5rT8xqVLpB6S6Ej89o/giphy.gif" width="300" alt="coding animation"/>
 
 # 👋 Hi, I'm Dinakar Sathyanarayana
 
-### FPGA Emulation & SoC Validation Engineer | RTL Synthesis | Pre-Silicon Validation | MS CS @ CSU
+### FPGA Emulation & SoC Design Verification Engineer | UVM/SystemVerilog | Pre-Silicon Validation | MS ECE @ CSU '26
 
 🔬 I build and validate **SoC designs** before they hit silicon
 ⚡ I bring up **FPGA emulation platforms** that mirror real hardware
@@ -14,29 +14,59 @@
 
 ---
 
-## 🧠 What I Do
+## 👨‍💻 About Me
 
-- Set up and run **FPGA emulation flows** on Synopsys HAPS & Cadence Palladium
-- Verify **ARM Cortex-M SoCs** with TrustZone, secure boot, and fuse logic
-- Write **C-based test cases** for PIC32 MCUs covering GPIOs, DMA, FLASH, and SQI
-- Build **UVM testbenches** with drivers, monitors, scoreboards for RTL verification
-- Automate **regression and synthesis flows** using Python and Tcl
+FPGA Emulation & SoC Design Verification Engineer (M.S. ECE, CSU '26).
 
-I care about **timing closure, waveform accuracy, and design readiness** — not just passing tests.
+Focused on pre-silicon validation, UVM/SystemVerilog-based verification, and FPGA-based SoC bring-up and functional validation.
+
+- Pre-silicon validation mindset — catch bugs before tapeout
+- Strong bias toward automated regression and scripted flows
+- Methodical during emulation failures — waveforms, assertions, trace logs
+- Detail-oriented: timing, register maps, and protocol specs matter
+- Big believer in **"verify early, verify often"**
 
 ---
 
-## 🛠️ Tech I Work With
+## 🧠 What I Do
 
-```text
-Emulation     : Synopsys HAPS • ZeBu • Cadence Palladium • Xilinx VC707 • Chameleon
-HDL / HVL     : Verilog • VHDL • SystemVerilog • UVM
-Programming   : C • C++ • Python • Perl • Tcl • Bash • Linux • Makefiles
-EDA Tools     : Questa Formal • ModelSim • QuestaSim • Xilinx Vivado • Quartus Prime
-              : Vitis HLS • Cadence Virtuoso • Synopsys VCS/DC/FC • Synplify • ProFPGA
-Protocols     : PCIe • AHB • APB • AXI • DDRx • UART • SPI • SQI • I2C • CAN • JTAG
-Concepts      : ASIC/FPGA Design • Assertion-Based Verification • STA • Cache Coherence
-```
+**RTL Design & FPGA**
+- RTL coding in Verilog and SystemVerilog
+- FPGA design and implementation for solution-specific requirements
+- Bitfile generation; debug across synthesis, implementation, placement, and timing closure stages
+
+**Design Verification**
+- UVM-based testbench architecture and development
+- SystemVerilog Assertions (SVA) for protocol and interface checking
+- C-DPI integration for mixed-language verification environments
+- Hardware and software environment setup for verification
+
+**SoC & IP Validation**
+- C-based test cases for data transfer validation across SoC IPs: Flash Memory, DMA, DRAM, CAN, SPI, I2C, UART
+- Bus contention and arbitration validation
+- BootROM debug for controller bring-up
+- CoreMark benchmarking for CPU performance validation (PIC32)
+- IDAU configuration and TrustZone security feature testing
+
+**Emulation (Theoretical)**
+- Hardware architecture and working principles: Synopsys HAPS, Cadence Palladium, EVE ZeBu
+- Design partitioning strategies for emulation platforms
+- Functional differences across emulation tiers
+
+---
+
+## 🛠️ Technical Stack
+
+| Domain          | Tools / Technologies                                      |
+|-----------------|-----------------------------------------------------------|
+| Languages       | SystemVerilog, Verilog, C, Python, Perl, TCL              |
+| Verification    | UVM, SVA, C-DPI, VCS, QuestaSim, Verdi                    |
+| Synthesis       | Synopsys DC, SpyGlass, Quartus Prime, Vivado              |
+| FPGA            | Bitfile generation, timing closure, placement debug       |
+| SoC IPs         | Flash, DMA, DRAM, CAN, SPI, I2C, UART                     |
+| Security        | IDAU, TrustZone (ARMv8-M)                                 |
+| Emulation       | HAPS · Palladium · ZeBu                                   |
+| Collaboration   | Git, JIRA, Confluence                                     |
 
 ---
 
@@ -73,7 +103,7 @@ Concepts      : ASIC/FPGA Design • Assertion-Based Verification • STA • Ca
 ## 🧑‍💻 How I Debug
 
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="debugging animation"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWx5ZXR6c21tOTdhOHE1eTF4bWRpdnZ2dHFwa2liNm8xOGk3eWxsMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pOEbLRT4SwD35IELiQ/giphy.gif" width="280" alt="debugging animation"/>
 </div>
 
 - Pre-silicon validation mindset — catch bugs **before tapeout**
@@ -88,21 +118,21 @@ Concepts      : ASIC/FPGA Design • Assertion-Based Verification • STA • Ca
 
 | Degree | Institution | Year | GPA |
 |--------|------------|------|-----|
-| MS in Computer Engineering | Colorado State University, Fort Collins, CO | Dec 2026 | 3.15 / 4.00 |
-| BE in Electronics & Communication Engineering | Visvesvaraya Technological University (VTU), Bengaluru | Aug 2021 | — |
+| MS in Computer Engineering | Colorado State University, Fort Collins, CO | Dec 2026 | 3.18 / 4.00 |
+| BE in Electronics & Communication Engineering | Visvesvaraya Technological University (VTU), Bengaluru | Aug 2021 | 3.10 / 4.00 |
 
 ---
 
 ## 📫 Let's Connect
 
 - 💼 LinkedIn: **https://linkedin.com/in/dinakar-sathyanarayana**
-- 📧 Email: **dinakar.sathyanarayana@colostate.edu**
+- 📧 Email: **dinakar.sathyanarayana@colostate.edu** | **dinakar.satyanarayana@gmail.com**
 - 🌍 Location: **Fort Collins, CO**
 
 ---
 
 <div align="center">
 
-💡 **"Validate the design, not just the simulation."**
+💡 **"Validate the design, not just the simulation/emulation."**
 
 </div>
