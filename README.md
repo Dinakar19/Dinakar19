@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/Oe8lIVeriWXGqPuLgZ/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" alt="coding animation"/>
 
 # 👋 Hi, I'm Dinakar Sathyanarayana
 
@@ -73,7 +73,7 @@ Concepts      : ASIC/FPGA Design • Assertion-Based Verification • STA • Ca
 ## 🧑‍💻 How I Debug
 
 <div align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTjm4/giphy.gif" width="280"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="debugging animation"/>
 </div>
 
 - Pre-silicon validation mindset — catch bugs **before tapeout**
