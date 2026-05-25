@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Dinakar Sathyanarayana
 
-🎓 MS in Computer Engineering @ Colorado State University (GPA: 3.15/4.00)  
+🎓 MS in Computer Engineering @ Colorado State University (GPA: 3.18/4.00)  
 📍 Fort Collins, CO | 📧 dinakar.sathyanarayana@colostate.edu  
 🔗 [LinkedIn](https://linkedin.com/in/dinakar-sathyanarayana)
 
@@ -14,7 +14,7 @@ FPGA Emulation and SoC Validation Engineer with 3 years of experience in RTL syn
 
 ## 🛠️ Skills
 
-- **Emulation Platforms:** Synopsys HAPS, Cadence Palladium, FPGA Prototyping (Xilinx VC707, Chameleon)
+- **Emulation Platforms:** Synopsys HAPS/ZEBU, Cadence Palladium, FPGA Prototyping (Xilinx VC707, Chameleon)
 - **HDL / HVL:** Verilog, VHDL, SystemVerilog, UVM
 - **Programming Languages:** C, C++, Python, Perl, Tcl, Bash, Linux, Makefiles
 - **Tools:** Siemens Questa Formal, ModelSim, QuestaSim, Visualizer, Xilinx Vivado, Intel Quartus Prime, Vitis HLS, Cadence Virtuoso, Synopsys VCS, DC, FC, Synplify Premier, ProFPGA
@@ -30,7 +30,7 @@ FPGA Emulation and SoC Validation Engineer with 3 years of experience in RTL syn
 📅 *Mar 2022 – Aug 2024*
 
 - Synthesized Verilog RTL and compiled models for FPGA platforms (**Virtex 7**), enabling reliable hardware emulation and pre-silicon validation.
-- Familiar with **Synopsys HAPS, ZeBu** and **Cadence Palladium** emulation platforms, including environment setup, compilation flow, and debug workflows for large RTL designs.
+- Familiar with **Synopsys HAPS/ZeBu** and **Cadence Palladium** emulation platforms, including environment setup, compilation flow, and debug workflows for large RTL designs.
 - Developed end-to-end emulation flows including design partitioning, synthesis, place and route, and timing analysis to ensure design readiness.
 - Generated and validated bitstreams for each RTL freeze, maintaining consistency across design revisions.
 - Verified **ARM Cortex-M SoCs** with TrustZone security, with secure boot, fuse logic, and board bring-up process.
@@ -60,7 +60,7 @@ FPGA Emulation and SoC Validation Engineer with 3 years of experience in RTL syn
 | Degree | Institution | Year | GPA |
 |--------|------------|------|-----|
 | MS in Computer Engineering | Colorado State University, Fort Collins, CO | Dec 2026 | 3.15 / 4.00 |
-| BE in Electronics & Communication Engineering | Visvesvaraya Technological University (VTU), Bengaluru | Aug 2021 | — |
+| BE in Electronics & Communication Engineering | Visvesvaraya Technological University (VTU), Bengaluru | Aug 2021 | 3.00/4.00 |
 
 ---
 
