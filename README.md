@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGZvZWpndmxrdDY1MmpjNmo4MmI2dzAzZzc5bXl0MGo5ODU4YWFmcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5rT8xqVLpB6S6Ej89o/giphy.gif" width="300" alt="coding animation"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXU3aWszcDRpeXpvMXdncncwZzl4MjIyOXpjMTNib3htbDczb2xqNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="300" alt="coding animation"/>
 
 # 👋 Hi, I'm Dinakar Sathyanarayana
 
